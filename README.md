@@ -1,6 +1,6 @@
 # ada-Openapi-Client-Rest
-##Virtual Event Streaming 
-- (VES) Collector is RESTful collector for processing JSON messages. The collector verifies the source and validates the events against VES schema before distributing to DMAAP MR topics 
+### Virtual Event Streaming 
+-- (VES) Collector is RESTful collector for processing JSON messages. The collector verifies the source and validates the events against VES schema before distributing to DMAAP MR topics 
 --
 --  The version of the OpenAPI document: 1.2.0
 --
